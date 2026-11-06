@@ -49,4 +49,5 @@ cuda-programming/
 
 ---
 
-**Status:** Learning in progress 🚀
+**Status:** Learning in progress 
+
